@@ -1,0 +1,2 @@
+# U.S.-On-Highway-Diesel-Fuel-Price-Forecasting-1994-2024-using-R-programming
+This project analyzes and forecasts U.S. on-highway diesel fuel prices using advanced time series forecasting methods. By studying diesel price trends over the last three decades, we identified key factors such as seasonal fluctuations, market volatility, and external events like the 2008 financial crisis and the COVID-19 pandemic.
